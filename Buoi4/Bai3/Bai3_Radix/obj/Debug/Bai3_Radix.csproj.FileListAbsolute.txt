@@ -1,0 +1,7 @@
+C:\Users\Dung\OneDrive - Zung\Desktop\MonHoc\KTPM\Bai3_Radix\Bai3_Radix\bin\Debug\Bai3_Radix.exe.config
+C:\Users\Dung\OneDrive - Zung\Desktop\MonHoc\KTPM\Bai3_Radix\Bai3_Radix\bin\Debug\Bai3_Radix.exe
+C:\Users\Dung\OneDrive - Zung\Desktop\MonHoc\KTPM\Bai3_Radix\Bai3_Radix\bin\Debug\Bai3_Radix.pdb
+C:\Users\Dung\OneDrive - Zung\Desktop\MonHoc\KTPM\Bai3_Radix\Bai3_Radix\obj\Debug\Bai3_Radix.csproj.AssemblyReference.cache
+C:\Users\Dung\OneDrive - Zung\Desktop\MonHoc\KTPM\Bai3_Radix\Bai3_Radix\obj\Debug\Bai3_Radix.csproj.CoreCompileInputs.cache
+C:\Users\Dung\OneDrive - Zung\Desktop\MonHoc\KTPM\Bai3_Radix\Bai3_Radix\obj\Debug\Bai3_Radix.exe
+C:\Users\Dung\OneDrive - Zung\Desktop\MonHoc\KTPM\Bai3_Radix\Bai3_Radix\obj\Debug\Bai3_Radix.pdb

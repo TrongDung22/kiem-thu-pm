@@ -1,0 +1,10 @@
+C:\Users\Dung\OneDrive - Zung\Desktop\MonHoc\KTPM\QuanLyOrganization\QuanLyOrganization\bin\Debug\QuanLyOrganization.exe.config
+C:\Users\Dung\OneDrive - Zung\Desktop\MonHoc\KTPM\QuanLyOrganization\QuanLyOrganization\bin\Debug\QuanLyOrganization.exe
+C:\Users\Dung\OneDrive - Zung\Desktop\MonHoc\KTPM\QuanLyOrganization\QuanLyOrganization\bin\Debug\QuanLyOrganization.pdb
+C:\Users\Dung\OneDrive - Zung\Desktop\MonHoc\KTPM\QuanLyOrganization\QuanLyOrganization\obj\Debug\QuanLyOrganization.csproj.AssemblyReference.cache
+C:\Users\Dung\OneDrive - Zung\Desktop\MonHoc\KTPM\QuanLyOrganization\QuanLyOrganization\obj\Debug\QuanLyOrganization.Form1.resources
+C:\Users\Dung\OneDrive - Zung\Desktop\MonHoc\KTPM\QuanLyOrganization\QuanLyOrganization\obj\Debug\QuanLyOrganization.Properties.Resources.resources
+C:\Users\Dung\OneDrive - Zung\Desktop\MonHoc\KTPM\QuanLyOrganization\QuanLyOrganization\obj\Debug\QuanLyOrganization.csproj.GenerateResource.cache
+C:\Users\Dung\OneDrive - Zung\Desktop\MonHoc\KTPM\QuanLyOrganization\QuanLyOrganization\obj\Debug\QuanLyOrganization.csproj.CoreCompileInputs.cache
+C:\Users\Dung\OneDrive - Zung\Desktop\MonHoc\KTPM\QuanLyOrganization\QuanLyOrganization\obj\Debug\QuanLyOrganization.exe
+C:\Users\Dung\OneDrive - Zung\Desktop\MonHoc\KTPM\QuanLyOrganization\QuanLyOrganization\obj\Debug\QuanLyOrganization.pdb

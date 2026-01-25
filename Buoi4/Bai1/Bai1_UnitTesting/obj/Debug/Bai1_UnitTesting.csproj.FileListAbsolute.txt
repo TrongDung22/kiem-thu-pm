@@ -1,0 +1,7 @@
+C:\Users\Dung\OneDrive - Zung\Desktop\MonHoc\KTPM\Bai1_UnitTesting\Bai1_UnitTesting\bin\Debug\Bai1_UnitTesting.exe.config
+C:\Users\Dung\OneDrive - Zung\Desktop\MonHoc\KTPM\Bai1_UnitTesting\Bai1_UnitTesting\bin\Debug\Bai1_UnitTesting.exe
+C:\Users\Dung\OneDrive - Zung\Desktop\MonHoc\KTPM\Bai1_UnitTesting\Bai1_UnitTesting\bin\Debug\Bai1_UnitTesting.pdb
+C:\Users\Dung\OneDrive - Zung\Desktop\MonHoc\KTPM\Bai1_UnitTesting\Bai1_UnitTesting\obj\Debug\Bai1_UnitTesting.csproj.AssemblyReference.cache
+C:\Users\Dung\OneDrive - Zung\Desktop\MonHoc\KTPM\Bai1_UnitTesting\Bai1_UnitTesting\obj\Debug\Bai1_UnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\Dung\OneDrive - Zung\Desktop\MonHoc\KTPM\Bai1_UnitTesting\Bai1_UnitTesting\obj\Debug\Bai1_UnitTesting.exe
+C:\Users\Dung\OneDrive - Zung\Desktop\MonHoc\KTPM\Bai1_UnitTesting\Bai1_UnitTesting\obj\Debug\Bai1_UnitTesting.pdb

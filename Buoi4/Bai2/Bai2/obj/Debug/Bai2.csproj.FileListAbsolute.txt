@@ -1,0 +1,7 @@
+C:\Users\Dung\OneDrive - Zung\Desktop\MonHoc\KTPM\Bai2\Bai2\bin\Debug\Bai2.exe.config
+C:\Users\Dung\OneDrive - Zung\Desktop\MonHoc\KTPM\Bai2\Bai2\bin\Debug\Bai2.exe
+C:\Users\Dung\OneDrive - Zung\Desktop\MonHoc\KTPM\Bai2\Bai2\bin\Debug\Bai2.pdb
+C:\Users\Dung\OneDrive - Zung\Desktop\MonHoc\KTPM\Bai2\Bai2\obj\Debug\Bai2.csproj.AssemblyReference.cache
+C:\Users\Dung\OneDrive - Zung\Desktop\MonHoc\KTPM\Bai2\Bai2\obj\Debug\Bai2.csproj.CoreCompileInputs.cache
+C:\Users\Dung\OneDrive - Zung\Desktop\MonHoc\KTPM\Bai2\Bai2\obj\Debug\Bai2.exe
+C:\Users\Dung\OneDrive - Zung\Desktop\MonHoc\KTPM\Bai2\Bai2\obj\Debug\Bai2.pdb
